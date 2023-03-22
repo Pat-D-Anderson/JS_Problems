@@ -1,0 +1,18 @@
+{
+  "name": "js_problems_package",
+  "version": "1.0.0",
+  "description": "JS Practice problems",
+  "main": "AnagramTester.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Pat-D-Anderson/JS_Problems.git)"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "Pat D Anderson",
+  "license": "ISC"
+}
